@@ -1,0 +1,13 @@
+.buttonDelete {
+    /* border-radius: 3px; */
+    outline: none;
+    cursor: pointer;
+    padding: 0;
+    /* margin-bottom: 5px; */
+}
+.listItem:last-child {
+    margin-bottom: 0;
+}
+.listItem {
+    margin-bottom: 10px;
+}
